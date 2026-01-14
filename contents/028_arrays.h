@@ -1,0 +1,1 @@
+void update_message(int message_data[5], int new_type_message, int new_num_lines);

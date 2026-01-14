@@ -1,0 +1,1 @@
+int *reallocate_scalar_array(int initial_size, int new_size, int multiplier);

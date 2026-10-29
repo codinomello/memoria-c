@@ -1,6 +1,6 @@
 #include "stdlib.h"
 
-#include "049_pointer_pointer.h"
+#include "051_pointer_pointer.h"
 
 void allocate_int(int **pointer_pointer, int value) {
     *pointer_pointer = (int *)malloc(sizeof(int));

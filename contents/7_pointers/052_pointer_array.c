@@ -1,6 +1,6 @@
 #include <stdlib.h>
 
-#include "050_pointer_array.h"
+#include "052_pointer_array.h"
 
 token_t **create_token_pointer_array(token_t *tokens, size_t count) {
     token_t **token_pointers = malloc(count * sizeof(token_t *));
